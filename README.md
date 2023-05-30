@@ -1,1 +1,2 @@
-# Tomb-of-the-Mask
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
